@@ -21,7 +21,7 @@ You may visit the page at <a href="https://github.com/patellalit1507/algovisuali
 
 ## How To Use
 
-Open the <a href="https://github.com/patellalit1507/algovisualizer.github.io/">website</a> in Chrome and follow the instructions to start visualizing algorithms!
+Open the <a href="https://patellalit1507.github.io/algovisualizer.github.io/">website</a> in Chrome and follow the instructions to start visualizing algorithms!
 
 ## How To Contribute
 
