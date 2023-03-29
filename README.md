@@ -1,5 +1,5 @@
 This project is developed with React to help people to view algorithmic processes intuitively and entertainingly. <br/>
-You may visit the page at <a href="https://github.com/patellalit1507/algovisualizer.github.io/">https://github.com/patellalit1507/algovisualizer.github.io</a> with Chrome (use full screen view to achieve better experience).
+You may visit the page at <a href="https://patellalit1507.github.io/algovisualizer.github.io/">https://github.com/patellalit1507/algovisualizer.github.io</a> with Chrome (use full screen view to achieve better experience).
 
 ## Algorithms Included
 
