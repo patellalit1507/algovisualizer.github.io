@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "552f1ad5ab4ae611f77e2565f9c2fb72",
+    "revision": "f6f257e10b7ac0ae20f9930eff54e2c5",
     "url": "/algovisualizer.github.io/index.html"
   },
   {
-    "revision": "3e48d349bc9724b19620",
+    "revision": "9b970d7d3ac501a46e17",
     "url": "/algovisualizer.github.io/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "e7ee49eaf9792ae1d154",
+    "revision": "adcce8190a2afdc23f95",
     "url": "/algovisualizer.github.io/static/css/main.0641544b.chunk.css"
   },
   {
-    "revision": "3e48d349bc9724b19620",
-    "url": "/algovisualizer.github.io/static/js/2.4243c35b.chunk.js"
+    "revision": "9b970d7d3ac501a46e17",
+    "url": "/algovisualizer.github.io/static/js/2.232a4222.chunk.js"
   },
   {
     "revision": "d3031346469a8a2ef527f1ad705ea3b7",
-    "url": "/algovisualizer.github.io/static/js/2.4243c35b.chunk.js.LICENSE.txt"
+    "url": "/algovisualizer.github.io/static/js/2.232a4222.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7ee49eaf9792ae1d154",
-    "url": "/algovisualizer.github.io/static/js/main.d457b2f5.chunk.js"
+    "revision": "adcce8190a2afdc23f95",
+    "url": "/algovisualizer.github.io/static/js/main.636778b4.chunk.js"
   },
   {
     "revision": "44ac39a4ccbb3e7504b7",
