@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6f257e10b7ac0ae20f9930eff54e2c5",
+    "revision": "95ee136f42d418ae8fbeb41237eee1d3",
     "url": "/algovisualizer.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/algovisualizer.github.io/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "adcce8190a2afdc23f95",
+    "revision": "8228dd8508c711380a12",
     "url": "/algovisualizer.github.io/static/css/main.0641544b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/algovisualizer.github.io/static/js/2.232a4222.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "adcce8190a2afdc23f95",
-    "url": "/algovisualizer.github.io/static/js/main.636778b4.chunk.js"
+    "revision": "8228dd8508c711380a12",
+    "url": "/algovisualizer.github.io/static/js/main.cce07033.chunk.js"
   },
   {
     "revision": "44ac39a4ccbb3e7504b7",

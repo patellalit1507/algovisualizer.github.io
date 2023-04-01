@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/algovisualizer.github.io/static/css/main.0641544b.chunk.css",
-    "main.js": "/algovisualizer.github.io/static/js/main.636778b4.chunk.js",
-    "main.js.map": "/algovisualizer.github.io/static/js/main.636778b4.chunk.js.map",
+    "main.js": "/algovisualizer.github.io/static/js/main.cce07033.chunk.js",
+    "main.js.map": "/algovisualizer.github.io/static/js/main.cce07033.chunk.js.map",
     "runtime-main.js": "/algovisualizer.github.io/static/js/runtime-main.9d7b7789.js",
     "runtime-main.js.map": "/algovisualizer.github.io/static/js/runtime-main.9d7b7789.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/algovisualizer.github.io/static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.232a4222.chunk.js": "/algovisualizer.github.io/static/js/2.232a4222.chunk.js",
     "static/js/2.232a4222.chunk.js.map": "/algovisualizer.github.io/static/js/2.232a4222.chunk.js.map",
     "index.html": "/algovisualizer.github.io/index.html",
-    "precache-manifest.3a769a591ae32860a8b2e69d12bc42dd.js": "/algovisualizer.github.io/precache-manifest.3a769a591ae32860a8b2e69d12bc42dd.js",
+    "precache-manifest.8788ff277b8d812ee16449b48a9a134a.js": "/algovisualizer.github.io/precache-manifest.8788ff277b8d812ee16449b48a9a134a.js",
     "service-worker.js": "/algovisualizer.github.io/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/algovisualizer.github.io/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.0641544b.chunk.css.map": "/algovisualizer.github.io/static/css/main.0641544b.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.232a4222.chunk.js",
     "static/css/main.0641544b.chunk.css",
-    "static/js/main.636778b4.chunk.js"
+    "static/js/main.cce07033.chunk.js"
   ]
 }
